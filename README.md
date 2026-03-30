@@ -22,7 +22,7 @@ I am an **iOS Developer** with a background in **Digital Arts** and **Interactio
 #### [Shelfmark](https://github.com/fernandobtro/Shelfmark)
 *Personal library management app built with **SwiftUI** and **SwiftData**. Focused on clean architecture and local persistence.*
 
-#### [Eco](https://github.com/fernandobtro/Eco)
+#### [Eco](https://github.com/fernandobtro/ProyectoEco)
 *Geolocation-based multimedia storytelling app using **MapKit** and interactive UI patterns.*
 
 #### [LICA Case Study](https://github.com/fernandobtro/LICA-Case-Study)
